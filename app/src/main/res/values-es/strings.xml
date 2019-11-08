@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mueavaContactos</string>
+    <string name="t_button_abort">Sácame de aquí!</string>
+    <string name="t_button_ok">Entendí</string>
+    <string name="t_copied">%1$d/%2$d contactos copiados</string>
+    <string name="t_copy">Copiar, no mover</string>
+    <string name="t_copy_button">Copia %1$d contactos</string>
+    <string name="t_deselect">Selección inversa</string>
+    <string name="t_disclaimer">Renuncia</string>
+    <string name="t_dtext">A pesar de todas las pruebas, no somos responsables de ninguna pérdida de contactos. Haga una copia de seguridad de sus contactos.</string>
+    <string name="t_move_button">Mueva %1$d contactos</string>
+    <string name="t_moved">%1$d/%2$d contactos movidos</string>
+    <string name="t_movefrom">De</string>
+    <string name="t_moveto">A</string>
+    <string name="t_reload">Recargar los libros de direcciones</string>
+    <string name="t_stripgroups">Eliminar grupos vacíos</string>
+    <string name="t_success">Éxito</string>
+</resources>

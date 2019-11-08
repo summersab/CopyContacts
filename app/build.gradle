@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.summersab.copycontacts"
+        minSdkVersion 16
+        targetSdkVersion 28
+        versionCode 3
+        versionName "2.1"
+    }
+
+    lintOptions {
+        disable 'InvalidPackage' // Okio references java.nio that does not presented in Android SDK
+        disable 'GoogleAppIndexingWarning' // App does not have deep linking
+        disable 'IconDipSize'
+        warningsAsErrors true
+        abortOnError true
+        textReport true
+        textOutput 'stdout'
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.annotation:annotation:1.1.0'
+}

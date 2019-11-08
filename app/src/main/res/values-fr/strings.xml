@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">déplaceContacts</string>
+    <string name="t_button_abort">Je veux sortir!</string>
+    <string name="t_button_ok">Entendu</string>
+    <string name="t_copied">Copiés %1$d/%2$d contacts\10de%3$s\10à %4$s</string>
+    <string name="t_copy">Copier, pas déplacer</string>
+    <string name="t_copy_button">Copier %1$d contacts</string>
+    <string name="t_deselect">Annuler/inverser la sélection</string>
+    <string name="t_disclaimer">Décharge de responsabilité</string>
+    <string name="t_dtext">Malgré tous les tests,nous ne sommes pas résponsable pour des pertes de contacts. Sauvegarde tes contacts, svp.</string>
+    <string name="t_move_button">Déplace %1$d contacts</string>
+    <string name="t_moved">Déplacés %1$d/%2$d contacts de %3$s\10à %4$s</string>
+    <string name="t_movefrom">De</string>
+    <string name="t_moveto">À</string>
+    <string name="t_reload">Mise à jour carnet d\'address</string>
+    <string name="t_stripgroups">Effacer les groupes vides</string>
+    <string name="t_success">Succès</string>
+</resources>

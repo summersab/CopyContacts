@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Copy Contacts</string>
+    <string name="t_button_abort">Get me out of here!</string>
+    <string name="t_button_ok">Understood, proceed</string>
+    <string name="t_copied">"Copied %1$d/%2$d contacts
+from %3$s
+to %4$s"</string>
+    <string name="t_copy">"Copy, don't move"</string>
+    <string name="t_copy_button">Copy %1$d contacts</string>
+    <string name="t_deselect">Deselect/reverse selection</string>
+    <string name="t_disclaimer">Disclaimer</string>
+    <string name="t_dtext">Despite all testing,we are not responsible for any loss of contacts. Please backup your contacts</string>
+    <string name="t_move_button">Move %1$d contacts</string>
+    <string name="t_moved">"Moved %1$d/%2$d contact
+from %3$s
+to %4$s"</string>
+    <string name="t_movefrom">From</string>
+    <string name="t_moveto">To</string>
+    <string name="t_reload">Reload address-books</string>
+    <string name="t_stripgroups">Delete empty groups</string>
+    <string name="t_success">Success</string>
+</resources>

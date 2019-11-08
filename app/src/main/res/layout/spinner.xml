@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="fill" android:orientation="horizontal" android:padding="3.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/to_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/phone_icon" />
+    <TextView android:textStyle="bold" android:gravity="center_vertical" android:id="@id/to_text" android:paddingLeft="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Phone" />
+</LinearLayout>

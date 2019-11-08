@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="mainlayout" />
+    <item type="id" name="from" />
+    <item type="id" name="accfrom" />
+    <item type="id" name="to" />
+    <item type="id" name="accto" />
+    <item type="id" name="button" />
+    <item type="id" name="progressBar" />
+    <item type="id" name="searchResult" />
+    <item type="id" name="recycler_view" />
+    <item type="id" name="picture" />
+    <item type="id" name="displayname" />
+    <item type="id" name="checkBox" />
+    <item type="id" name="to_icon" />
+    <item type="id" name="to_text" />
+    <item type="id" name="version" />
+    <item type="id" name="copy" />
+    <item type="id" name="stripgroups" />
+    <item type="id" name="reload_contacts" />
+    <item type="id" name="deselect" />
+</resources>

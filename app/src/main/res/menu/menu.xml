@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:enabled="false" android:id="@id/version" android:visible="true" android:title="Version" />
+        <item android:id="@id/copy" android:visible="true" android:title="@string/t_copy" android:checkable="true" />
+        <item android:id="@id/stripgroups" android:visible="true" android:title="@string/t_stripgroups" android:checkable="true" />
+    </group>
+    <item android:enabled="true" android:id="@id/reload_contacts" android:checked="false" android:visible="true" android:title="@string/t_reload" android:checkable="false" />
+    <item android:enabled="true" android:id="@id/deselect" android:checked="false" android:visible="true" android:title="@string/t_deselect" android:checkable="false" />
+</menu>

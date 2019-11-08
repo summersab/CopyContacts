@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">verschiebeKontakte</string>
+    <string name="t_button_abort">Ich will raus!</string>
+    <string name="t_button_ok">Verstanden</string>
+    <string name="t_copied">%1$d/%2$d Kontakte\10von %3$s\10nach %4$s kopiert</string>
+    <string name="t_copy">Kopieren anstelle Verschieben</string>
+    <string name="t_copy_button">Kopiere %1$d Kontakte</string>
+    <string name="t_deselect">Auswahl aufheben/umkehren</string>
+    <string name="t_disclaimer">Haftungsausschluss</string>
+    <string name="t_dtext">Obwohl wir die App gründlich getestet haben, können wir nicht garantieren, dass keine Kontakte verloren gehen könnten. Bitte sichere Deine Kontakte.</string>
+    <string name="t_move_button">Verschiebe %1$d Kontakte</string>
+    <string name="t_moved">%1$d/%2$d Kontakte\10von %3$s\10nach %4$s verschoben</string>
+    <string name="t_movefrom">Von</string>
+    <string name="t_moveto">Nach</string>
+    <string name="t_reload">Lade Adressbücher neu</string>
+    <string name="t_stripgroups">Lösche leere Gruppen</string>
+    <string name="t_success">Erfolg</string>
+</resources>
